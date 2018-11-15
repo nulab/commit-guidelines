@@ -1,0 +1,13 @@
+{
+  "name": "commit-guidelines",
+  "version": "1.0.0",
+  "description": "A sample repository with different practices on how commit message guidelines can be automated",
+  "repository": "https://github.com/CarmenPopoviciu/commit-guidelines.git",
+  "author": "Carmen Popoviciu <carmen.popoviciu@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@commitlint/cli": "11.0.0",
+    "husky": "4.3.0"
+  }
+}
